@@ -1,2 +1,2 @@
 # pulsar
-[WIP] An HTTP over radio project
+[WIP] A p2p network over radio project
